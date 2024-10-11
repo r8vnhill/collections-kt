@@ -17,4 +17,5 @@ dependencyResolutionManagement {    // Gestión de resolución de dependencias
 
 include(
     ":iterator",
+    ":lazy"
 )
