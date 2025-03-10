@@ -14,7 +14,3 @@ dependencyResolutionManagement {    // Gestión de resolución de dependencias
         mavenCentral()  // Repositorio Maven Central
     }
 }
-
-include(
-    ":iterator",
-)

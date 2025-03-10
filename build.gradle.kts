@@ -1,5 +1,6 @@
 plugins {
     id("jvm.conventions")
+    id("iterator")
     alias(libs.plugins.detekt)
 }
 
